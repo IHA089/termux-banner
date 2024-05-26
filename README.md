@@ -16,3 +16,7 @@ Introducing Termux-Banner, an innovative tool created by the formidable SUKH-H4C
 Termux-Banner stands out due to its simplicity and powerful customization options. Whether you want to display motivational quotes, important reminders, or your favorite images, Termux-Banner makes it easy. The seamless integration with Fish shell and the ability to render images using `termimage` adds an extra layer of sophistication to your terminal environment.
 
 Experience a new level of customization and personalization with Termux-Banner. Created by SUKH-H4CKER, this tool is designed to make your Termux experience as unique and enjoyable as possible. Try it today and transform your terminal interactions!
+
+## installation
+
+just type `make` for installing this in your termux
